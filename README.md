@@ -69,41 +69,56 @@ Java Full Stack Developer | MCA Student
 
 
 
+
 🚀 Featured Projects:-
 
-   🛒 Shoply – Full Stack E-Commerce Application
+   🛒 Shoply – Full Stack E-Commerce Application:-
 
    React.js | Spring Boot | MySQL | JWT | Razorpay
+   
+Live Website:- https://shoply-zeta-two.vercel.app
 
 
 
-   👨‍💼 Employee Management System
+
+   👨‍💼 Employee Management System:-
 
    React.js | Spring Boot | Spring Data JPA | MySQL
+   
+Live Website:- https://employee-management-system-frontend-sepia.vercel.app
 
 
 
-   🧾 Product Billing System
+
+   🧾 Product Billing System:-
 
    React | TypeScript | Redux Toolkit | Tailwind CSS | Vitest
+   
+Live Website:- https://rococo-bunny-d824ac.netlify.app
 
 
 
-🏦 Bank Management System Web
+🏦 Bank Management System Web:-
 
    React.js | Spring Boot | MySQL
 
+ Live Website:- https://bank-management-system-web-three.vercel.app/
 
 
-📚 E-Book Application
+
+
+✅ Todos List:-
+
+   React.js
+
+Live Website:- https://todos-list-drab.vercel.app
+
+
+
+📚 E-Book Application:-
 
    Java Web Application
 
-
-
-✅ Todos List
-
-   React.js
 
 
 
